@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Praveen Vishwakarma
-- 👀 I’m interested in programming and data and I am eager to learn new technology.
-- 🌱 I have almost 3 years of experiance in Software development. I have good knowledge in spring boot, kafka, redis, prometheus, grafana, elastic search etc.
-- 💞️ I’m looking to collaborate on any thing where i can utilize my knowledge and learn something form it. 
-- 📫 How to reach me || email : praveenvishwakarma11063@gmail.com || instagram : _java_community || linkedIn : karma19
-- Resume Link : https://docs.google.com/document/d/1tArvczKWGwzQ5yokFVY9ebAgE5yQlekz6M8TwIT8xxc/edit?usp=sharing
+# Hi, I'm Praveen 👋  
 
-<!---
-karma-19/karma-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Backend Developer | 💡 Problem Solving | 📈 System Design  
+
+---
+
+## 🔧 Tech Stack & Expertise  
+- **Languages & Frameworks:** Java, Spring Boot  
+- **Messaging & Caching:** Kafka, Redis  
+- **Databases:** MySQL  
+- **DevOps & Monitoring:** Docker, Git/GitHub, Prometheus, Grafana  
+- **Concepts:** Microservices, REST APIs, Caching, Multithreading, Concurrency, LLD/HLD, Design Patterns, Problem Solving, DSA  
+
+---
+
+## 📌 Projects  
+- [**Distributed Rate Limiter**](https://github.com/karma-19/distributedRateLimiter)  
+  Built with Spring Boot + Redis (sliding window algorithm)  
+  Features: per-user & per-endpoint throttling, admin bypass, DLQ handling, TTL-based caching, real-time observability with Prometheus  
+
+---
+
+## 🏆 Coding Profiles  
+![LeetCode Stats](https://leetcard.jacoblin.cool/karma_19?theme=dark&font=Source%20Code%20Pro&ext=contest)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: **praveenvishwakarma171124@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/vishwakarmapraveen](https://www.linkedin.com/in/vishwakarmapraveen/)  
+- 🏆 LeetCode: [leetcode.com/u/karma_19](https://leetcode.com/u/karma_19/)  
+- 📄 [My Resume](https://drive.google.com/file/d/1Y_jQth9em9pxNhUaf8lNKQH3QW-Tv073/view?usp=sharing)  
+
+---
